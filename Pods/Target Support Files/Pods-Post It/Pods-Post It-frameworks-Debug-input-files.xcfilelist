@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Post It/Pods-Post It-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework
+${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework
